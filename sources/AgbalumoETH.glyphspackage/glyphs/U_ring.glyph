@@ -1,0 +1,19 @@
+{
+glyphname = Uring;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (234,0);
+ref = ringcomb.case;
+}
+);
+width = 676;
+}
+);
+unicode = 366;
+}

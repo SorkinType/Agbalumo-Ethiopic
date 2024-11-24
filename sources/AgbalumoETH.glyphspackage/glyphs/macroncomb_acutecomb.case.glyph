@@ -1,0 +1,33 @@
+{
+color = 8;
+glyphname = macroncomb_acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (246,710);
+},
+{
+name = top;
+pos = (282,1123);
+}
+);
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+pos = (136,160);
+ref = acutecomb.case;
+},
+{
+alignment = -1;
+ref = macroncomb.case;
+}
+);
+width = 388;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+}

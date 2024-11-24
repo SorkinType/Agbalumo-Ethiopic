@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = brevecomb_hookabovecomb.case;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = brevecomb.case;
+},
+{
+pos = (14,177);
+ref = hookabovecomb.case;
+}
+);
+width = 346;
+}
+);
+}

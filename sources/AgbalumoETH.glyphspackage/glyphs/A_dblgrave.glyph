@@ -1,0 +1,19 @@
+{
+glyphname = Adblgrave;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (140,0);
+ref = dblgravecomb.case;
+}
+);
+width = 670;
+}
+);
+unicode = 512;
+}

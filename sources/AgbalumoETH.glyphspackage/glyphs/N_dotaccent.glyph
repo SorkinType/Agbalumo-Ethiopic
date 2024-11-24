@@ -1,0 +1,19 @@
+{
+glyphname = Ndotaccent;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (281,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 695;
+}
+);
+unicode = 7748;
+}

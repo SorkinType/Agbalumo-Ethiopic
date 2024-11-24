@@ -1,0 +1,19 @@
+{
+glyphname = Scedilla;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (126,0);
+ref = cedillacomb.case;
+}
+);
+width = 543;
+}
+);
+unicode = 350;
+}

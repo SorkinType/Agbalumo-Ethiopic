@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = circumflexcomb_tildecomb.case;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = circumflexcomb.case;
+},
+{
+pos = (3,177);
+ref = tildecomb.case;
+}
+);
+width = 368;
+}
+);
+}

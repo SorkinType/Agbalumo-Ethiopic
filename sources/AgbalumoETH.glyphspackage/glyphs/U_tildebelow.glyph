@@ -1,0 +1,19 @@
+{
+glyphname = Utildebelow;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (112,0);
+ref = tildebelowcomb.case;
+}
+);
+width = 676;
+}
+);
+unicode = 7796;
+}

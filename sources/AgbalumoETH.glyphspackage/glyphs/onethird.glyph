@@ -1,6 +1,6 @@
 {
 color = 3;
-glyphname = "o-ethiopicird";
+glyphname = onethird;
 layers = (
 {
 layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
@@ -23,4 +23,5 @@ ref = three.dnom;
 width = 1124;
 }
 );
+unicode = 8531;
 }

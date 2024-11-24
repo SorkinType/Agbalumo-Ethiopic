@@ -1,0 +1,57 @@
+{
+glyphname = macroncomb_gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (246,710);
+},
+{
+name = top;
+pos = (282,1123);
+}
+);
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+pos = (67,160);
+ref = gravecomb.case;
+},
+{
+alignment = -1;
+ref = macroncomb.case;
+}
+);
+width = 388;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (246,710);
+},
+{
+name = top;
+pos = (282,1123);
+}
+);
+associatedMasterId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+layerId = "0990B673-234B-486A-94A7-582123A0DC56";
+name = "Sep 1, 23, 19:25";
+shapes = (
+{
+pos = (87,160);
+ref = gravecomb.case;
+},
+{
+alignment = -1;
+ref = macroncomb.case;
+}
+);
+width = 405;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+}

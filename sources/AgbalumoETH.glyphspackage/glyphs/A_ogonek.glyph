@@ -1,0 +1,19 @@
+{
+glyphname = Aogonek;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (382,10);
+ref = ogonekcomb.case;
+}
+);
+width = 670;
+}
+);
+unicode = 260;
+}

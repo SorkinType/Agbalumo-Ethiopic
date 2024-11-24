@@ -1,0 +1,51 @@
+{
+glyphname = acutecomb_macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (230,710);
+},
+{
+name = top;
+pos = (264,1099);
+}
+);
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+pos = (77,0);
+ref = acutecomb.case;
+},
+{
+alignment = -1;
+pos = (0,185);
+ref = macroncomb.case;
+}
+);
+width = 388;
+},
+{
+associatedMasterId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+layerId = "969A49B2-96BB-4659-806D-CB7FDDA167DF";
+name = "Aug 24, 23, 20:26";
+shapes = (
+{
+alignment = -1;
+pos = (93,0);
+ref = acutecomb.case;
+},
+{
+alignment = -1;
+pos = (16,185);
+ref = macroncomb.case;
+}
+);
+width = 412;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+}
