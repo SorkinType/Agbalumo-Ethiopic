@@ -6,10 +6,11 @@ layers = (
 layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
 shapes = (
 {
+pos = (-5,0);
 ref = hungarumlautcomb;
 }
 );
-width = 0;
+width = 403;
 }
 );
 metricLeft = "=5";
