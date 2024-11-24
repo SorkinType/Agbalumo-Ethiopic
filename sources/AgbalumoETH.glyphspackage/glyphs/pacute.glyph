@@ -1,0 +1,19 @@
+{
+glyphname = pacute;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (228,0);
+ref = acutecomb;
+}
+);
+width = 591;
+}
+);
+unicode = 7765;
+}

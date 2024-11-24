@@ -1,0 +1,19 @@
+{
+glyphname = rinvertedbreve;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (73,0);
+ref = breveinvertedcomb;
+}
+);
+width = 471;
+}
+);
+unicode = 531;
+}

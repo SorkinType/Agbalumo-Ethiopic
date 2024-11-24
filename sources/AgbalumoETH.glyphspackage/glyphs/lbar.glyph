@@ -1,0 +1,23 @@
+{
+color = 0;
+glyphname = lbar;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+pos = (23,0);
+ref = l;
+},
+{
+alignment = -1;
+pos = (8,92);
+ref = lcvertStroke_part.;
+}
+);
+width = 358;
+}
+);
+unicode = 410;
+}

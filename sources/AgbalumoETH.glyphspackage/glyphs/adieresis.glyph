@@ -1,0 +1,19 @@
+{
+glyphname = adieresis;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (118,0);
+ref = dieresiscomb;
+}
+);
+width = 564;
+}
+);
+unicode = 228;
+}

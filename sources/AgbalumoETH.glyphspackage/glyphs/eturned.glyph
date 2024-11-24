@@ -1,0 +1,28 @@
+{
+glyphname = eturned;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = schwa;
+}
+);
+width = 529;
+},
+{
+associatedMasterId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+layerId = "9079EEE5-CD70-40FB-A327-F347E427A4C9";
+name = "Sep 21, 23, 18:34";
+shapes = (
+{
+angle = 180;
+pos = (521,500);
+ref = e;
+}
+);
+width = 521;
+}
+);
+unicode = 477;
+}

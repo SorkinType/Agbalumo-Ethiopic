@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = gravecomb_macroncomb;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = gravecomb;
+},
+{
+pos = (14,256);
+ref = macroncomb;
+}
+);
+width = 413;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+}

@@ -1,0 +1,19 @@
+{
+glyphname = jcircumflex;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (26,0);
+ref = circumflexcomb;
+}
+);
+width = 279;
+}
+);
+unicode = 309;
+}

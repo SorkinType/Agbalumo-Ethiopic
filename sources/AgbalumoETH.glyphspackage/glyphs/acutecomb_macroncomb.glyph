@@ -1,0 +1,22 @@
+{
+color = 3;
+glyphname = acutecomb_macroncomb;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+pos = (135,0);
+ref = acutecomb;
+},
+{
+pos = (0,262);
+ref = macroncomb;
+}
+);
+width = 399;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+}

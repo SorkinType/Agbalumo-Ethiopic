@@ -1,0 +1,23 @@
+{
+glyphname = ecedillabreve;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (192,0);
+ref = cedillacomb;
+},
+{
+pos = (123,0);
+ref = brevecomb;
+}
+);
+width = 521;
+}
+);
+unicode = 7709;
+}

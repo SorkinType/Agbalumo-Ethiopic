@@ -1,0 +1,19 @@
+{
+glyphname = ecaron;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (171,0);
+ref = caroncomb;
+}
+);
+width = 521;
+}
+);
+unicode = 283;
+}

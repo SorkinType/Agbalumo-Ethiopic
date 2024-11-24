@@ -1,0 +1,19 @@
+{
+glyphname = kdotbelow;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (179,0);
+ref = dotbelowcomb;
+}
+);
+width = 556;
+}
+);
+unicode = 7731;
+}

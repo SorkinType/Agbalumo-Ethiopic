@@ -1,0 +1,19 @@
+{
+glyphname = nacute;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (194,0);
+ref = acutecomb;
+}
+);
+width = 589;
+}
+);
+unicode = 324;
+}

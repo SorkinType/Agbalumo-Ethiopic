@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = hcaron;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (167,-21);
+ref = caroncomb.case;
+}
+);
+width = 577;
+}
+);
+unicode = 543;
+}

@@ -1,0 +1,38 @@
+{
+color = 3;
+glyphname = ldot;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+pos = (104,-121);
+ref = periodcentered.loclCAT;
+}
+);
+width = 472;
+},
+{
+associatedMasterId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+layerId = "7339BDA3-CBE5-4337-B5F0-DEA725C406E1";
+name = "Sep 14, 23, 14:38";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (271,125);
+ref = periodcentered;
+}
+);
+width = 505;
+}
+);
+unicode = 320;
+}

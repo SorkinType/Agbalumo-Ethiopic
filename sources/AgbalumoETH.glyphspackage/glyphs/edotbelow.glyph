@@ -1,0 +1,20 @@
+{
+color = 11;
+glyphname = edotbelow;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (162,0);
+ref = dotbelowcomb;
+}
+);
+width = 521;
+}
+);
+unicode = 7865;
+}

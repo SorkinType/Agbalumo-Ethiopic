@@ -12,8 +12,13 @@ name = frac2;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adblgrave Adieresis Adotaccent Adotmacron Agrave Alpha-latin Amacron Aogonek Aring Atilde AE B Bdotaccent Beta-latin Bhook Bstroke C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent Chook D Dcaron Ddotaccent Ddotbelow Dmacronbelow E Eacute Ecaron Ecedilla Ecedillabreve Ecircumflex Ecircumflexbelow Edblgrave Edieresis Edotaccent Egrave Emacron Eopen Ereversed Esh Schwa F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstopsmall Gmacron Gstroke H Hbar Hbrevebelow Hcaron Hcircumflex Hdieresis Hdotaccent Hdotbelow Hhook Hturned I IJ Iacute Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Igrave Iinvertedbreve Imacron Iogonek Iota-latin Istroke Itilde J Jacute Jcircumflex Jcrossedtail Jstroke K Kacute Kcaron Kcommaaccent Kdotbelow Kmacronbelow L Lacute Lbar Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron M M_gravecomb M_macroncomb Macute Mdotaccent Mdotbelow N N_macroncomb Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Nmacronbelow Ntilde O Oacute Ocaron Ocircumflex Odblgrave Odieresis Odieresismacron Odotaccent Odotbelow Ograve Ohookabove Ohungarumlaut Oinvertedbreve Omacron Omega-latin Oogonek Oogonekmacron Oopen Oslash Oslashacute Otilde OE P Pacute Pdotaccent Phook Thorn Pstroke Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rmacronbelow Rstroke Rtail S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls T Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdotaccent Tdotbelow Thook Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Ucircumflexbelow Udblgrave Udieresis Udieresisbelow Udieresismacron Udotbelow Ugrave Uhookabove Uhungarumlaut Uinvertedbreve Umacron Uogonek Upsilon-latin Uring Utildebelow V Gamma-latin Vdotbelow Vhook Vtilde Vturned W Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook X Xdieresis Xdotaccent Y Yacute Ycircumflex Ydieresis Ydotaccent Ygrave Yhook Yhookabove Ymacron Ystroke Ytilde Z Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zstroke Saltillo a ae b c d e f g h i j k l m n o p q r s t u v w x y z ae.ss04 aemacron.ss04 ha-ethiopic hu-ethiopic hi-ethiopic haa-ethiopic hee-ethiopic he-ethiopic ho-ethiopic hoa-ethiopic la-ethiopic lu-ethiopic li-ethiopic laa-ethiopic lee-ethiopic le-ethiopic lo-ethiopic lwa-ethiopic hha-ethiopic hhu-ethiopic hhi-ethiopic hhaa-ethiopic hhee-ethiopic hhe-ethiopic hho-ethiopic hhwa-ethiopic ma-ethiopic mu-ethiopic mi-ethiopic maa-ethiopic mee-ethiopic me-ethiopic mo-ethiopic mwa-ethiopic sza-ethiopic szu-ethiopic szi-ethiopic szaa-ethiopic szee-ethiopic sze-ethiopic szo-ethiopic szwa-ethiopic ra-ethiopic ru-ethiopic ri-ethiopic raa-ethiopic ree-ethiopic re-ethiopic ro-ethiopic rwa-ethiopic sa-ethiopic su-ethiopic si-ethiopic saa-ethiopic see-ethiopic se-ethiopic so-ethiopic swa-ethiopic sha-ethiopic shu-ethiopic shi-ethiopic shaa-ethiopic shee-ethiopic she-ethiopic sho-ethiopic shwa-ethiopic qa-ethiopic qu-ethiopic qi-ethiopic qaa-ethiopic qee-ethiopic qe-ethiopic qo-ethiopic qoa-ethiopic qwa-ethiopic qwi-ethiopic qwaa-ethiopic qwee-ethiopic qwe-ethiopic qha-ethiopic qhu-ethiopic qhi-ethiopic qhaa-ethiopic qhee-ethiopic qhe-ethiopic qho-ethiopic qhwa-ethiopic qhwi-ethiopic qhwaa-ethiopic qhwee-ethiopic qhwe-ethiopic ba-ethiopic bu-ethiopic bi-ethiopic baa-ethiopic bee-ethiopic be-ethiopic bo-ethiopic bwa-ethiopic va-ethiopic vu-ethiopic vi-ethiopic vaa-ethiopic vee-ethiopic ve-ethiopic vo-ethiopic vwa-ethiopic ta-ethiopic tu-ethiopic ti-ethiopic taa-ethiopic tee-ethiopic te-ethiopic to-ethiopic twa-ethiopic ca-ethiopic cu-ethiopic ci-ethiopic caa-ethiopic cee-ethiopic ce-ethiopic co-ethiopic cwa-ethiopic xa-ethiopic xu-ethiopic xi-ethiopic xaa-ethiopic xee-ethiopic xe-ethiopic xo-ethiopic xoa-ethiopic xwa-ethiopic xwi-ethiopic xwaa-ethiopic xwee-ethiopic xwe-ethiopic na-ethiopic nu-ethiopic ni-ethiopic naa-ethiopic nee-ethiopic ne-ethiopic no-ethiopic nwa-ethiopic nya-ethiopic nyu-ethiopic nyi-ethiopic nyaa-ethiopic nyee-ethiopic nye-ethiopic nyo-ethiopic nywa-ethiopic aGlottal-ethiopic uGlottal-ethiopic iGlottal-ethiopic aaGlottal-ethiopic eeGlottal-ethiopic eGlottal-ethiopic oGlottal-ethiopic waGlottal-ethiopic ka-ethiopic ku-ethiopic ki-ethiopic kaa-ethiopic kee-ethiopic ke-ethiopic ko-ethiopic koa-ethiopic kwa-ethiopic kwi-ethiopic kwaa-ethiopic kwee-ethiopic kwe-ethiopic kxa-ethiopic kxu-ethiopic kxi-ethiopic kxaa-ethiopic kxee-ethiopic kxe-ethiopic kxo-ethiopic kxwa-ethiopic kxwi-ethiopic kxwaa-ethiopic kxwee-ethiopic kxwe-ethiopic wa-ethiopic wu-ethiopic wi-ethiopic waa-ethiopic wee-ethiopic we-ethiopic wo-ethiopic woa-ethiopic aPharyngeal-ethiopic uPharyngeal-ethiopic iPharyngeal-ethiopic aaPharyngeal-ethiopic eePharyngeal-ethiopic ePharyngeal-ethiopic oPharyngeal-ethiopic za-ethiopic zu-ethiopic zi-ethiopic zaa-ethiopic zee-ethiopic ze-ethiopic zo-ethiopic zwa-ethiopic zha-ethiopic zhu-ethiopic zhi-ethiopic zhaa-ethiopic zhee-ethiopic zhe-ethiopic zho-ethiopic zhwa-ethiopic ya-ethiopic yu-ethiopic yi-ethiopic yaa-ethiopic yee-ethiopic ye-ethiopic yo-ethiopic yoa-ethiopic da-ethiopic du-ethiopic di-ethiopic daa-ethiopic dee-ethiopic de-ethiopic do-ethiopic dwa-ethiopic dda-ethiopic ddu-ethiopic ddi-ethiopic ddaa-ethiopic ddee-ethiopic dde-ethiopic ddo-ethiopic ddwa-ethiopic ja-ethiopic ju-ethiopic ji-ethiopic jaa-ethiopic jee-ethiopic je-ethiopic jo-ethiopic jwa-ethiopic ga-ethiopic gu-ethiopic gi-ethiopic gaa-ethiopic gee-ethiopic ge-ethiopic go-ethiopic goa-ethiopic gwa-ethiopic gwi-ethiopic gwaa-ethiopic gwee-ethiopic gwe-ethiopic gga-ethiopic ggu-ethiopic ggi-ethiopic ggaa-ethiopic ggee-ethiopic gge-ethiopic ggo-ethiopic ggwaa-ethiopic tha-ethiopic thu-ethiopic thi-ethiopic thaa-ethiopic thee-ethiopic the-ethiopic tho-ethiopic thwa-ethiopic cha-ethiopic chu-ethiopic chi-ethiopic chaa-ethiopic chee-ethiopic che-ethiopic cho-ethiopic chwa-ethiopic pha-ethiopic phu-ethiopic phi-ethiopic phaa-ethiopic phee-ethiopic phe-ethiopic pho-ethiopic phwa-ethiopic tsa-ethiopic tsu-ethiopic tsi-ethiopic tsaa-ethiopic tsee-ethiopic tse-ethiopic tso-ethiopic tswa-ethiopic tza-ethiopic tzu-ethiopic tzi-ethiopic tzaa-ethiopic tzee-ethiopic tze-ethiopic tzo-ethiopic tzoa-ethiopic fa-ethiopic fu-ethiopic fi-ethiopic faa-ethiopic fee-ethiopic fe-ethiopic fo-ethiopic fwa-ethiopic pa-ethiopic pu-ethiopic pi-ethiopic paa-ethiopic pee-ethiopic pe-ethiopic po-ethiopic pwa-ethiopic rya-ethiopic mya-ethiopic fya-ethiopic mwaSebatbeit-ethiopic mwi-ethiopic mwee-ethiopic mwe-ethiopic bwaSebatbeit-ethiopic bwi-ethiopic bwee-ethiopic bwe-ethiopic fwaSebatbeit-ethiopic fwi-ethiopic fwee-ethiopic fwe-ethiopic pwaSebatbeit-ethiopic pwi-ethiopic pwee-ethiopic pwe-ethiopic loa-ethiopic moa-ethiopic roa-ethiopic soa-ethiopic shoa-ethiopic boa-ethiopic toa-ethiopic coa-ethiopic noa-ethiopic nyoa-ethiopic oaGlottal-ethiopic zoa-ethiopic doa-ethiopic ddoa-ethiopic joa-ethiopic thoa-ethiopic choa-ethiopic phoa-ethiopic poa-ethiopic ggwa-ethiopic ggwi-ethiopic ggwee-ethiopic ggwe-ethiopic ssa-ethiopic ssu-ethiopic ssi-ethiopic ssaa-ethiopic ssee-ethiopic sse-ethiopic sso-ethiopic cca-ethiopic ccu-ethiopic cci-ethiopic ccaa-ethiopic ccee-ethiopic cce-ethiopic cco-ethiopic zza-ethiopic zzu-ethiopic zzi-ethiopic zzaa-ethiopic zzee-ethiopic zze-ethiopic zzo-ethiopic ccha-ethiopic cchu-ethiopic cchi-ethiopic cchaa-ethiopic cchee-ethiopic cche-ethiopic ccho-ethiopic qya-ethiopic qyu-ethiopic qyi-ethiopic qyaa-ethiopic qyee-ethiopic qye-ethiopic qyo-ethiopic kya-ethiopic kyu-ethiopic kyi-ethiopic kyaa-ethiopic kyee-ethiopic kye-ethiopic kyo-ethiopic xya-ethiopic xyu-ethiopic xyi-ethiopic xyaa-ethiopic xyee-ethiopic xye-ethiopic xyo-ethiopic gya-ethiopic gyu-ethiopic gyi-ethiopic gyaa-ethiopic gyee-ethiopic gye-ethiopic gyo-ethiopic tthu-ethiopic tthi-ethiopic tthaa-ethiopic tthee-ethiopic tthe-ethiopic ttho-ethiopic ddhu-ethiopic ddhi-ethiopic ddhaa-ethiopic ddhee-ethiopic ddhe-ethiopic ddho-ethiopic dzu-ethiopic dzi-ethiopic dzaa-ethiopic dzee-ethiopic dze-ethiopic dzo-ethiopic cchha-ethiopic cchhu-ethiopic cchhi-ethiopic cchhaa-ethiopic cchhee-ethiopic cchhe-ethiopic cchho-ethiopic bba-ethiopic bbu-ethiopic bbi-ethiopic bbaa-ethiopic bbee-ethiopic bbe-ethiopic bbo-ethiopic hhya-ethiopic hhyu-ethiopic hhyi-ethiopic hhyaa-ethiopic hhyee-ethiopic hhye-ethiopic hhyo-ethiopic hhwi-ethiopic hhwee-ethiopic hhwe-ethiopic hhwaGurage-ethiopic mwiGurage-ethiopic mweeGurage-ethiopic qwiGurage-ethiopic qweeGurage-ethiopic qweGurage-ethiopic bwiGurage-ethiopic bweeGurage-ethiopic kwiGurage-ethiopic kweeGurage-ethiopic kweGurage-ethiopic gwiGurage-ethiopic gweeGurage-ethiopic gweGurage-ethiopic fwiGurage-ethiopic fweeGurage-ethiopic pwiGurage-ethiopic pweeGurage-ethiopic one-ethiopic two-ethiopic three-ethiopic four-ethiopic five-ethiopic six-ethiopic seven-ethiopic eight-ethiopic nine-ethiopic ten-ethiopic twenty-ethiopic thirty-ethiopic forty-ethiopic fifty-ethiopic sixty-ethiopic seventy-ethiopic eighty-ethiopic ninety-ethiopic hundred-ethiopic tenthousand-ethiopic zero one two three four five six seven eight nine zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onethird twothirds onequarter threequarters oneeighth threeeighths fiveeighths seveneighths zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace colon-ethiopic comma-ethiopic paragraphseparator-ethiopic period-ethiopic prefacecolon-ethiopic question-ethiopic sectionmark-ethiopic semicolon-ethiopic wordspace-ethiopic colon-ethiopic.alt comma-ethiopic.alt paragraphseparator-ethiopic.alt prefacecolon-ethiopic.alt sectionmark-ethiopic.alt semicolon-ethiopic.alt wordspace-ethiopic.alt colon-ethiopic.ss01 comma-ethiopic.ss01 paragraphseparator-ethiopic.ss01 prefacecolon-ethiopic.ss01 sectionmark-ethiopic.ss01 semicolon-ethiopic.ss01 wordspace-ethiopic.ss01 period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT periodcentered.loclCAT.case hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle florin chiret-ethiopic deret-ethiopic deretHidet-ethiopic difat-ethiopic hidet-ethiopic kenat-ethiopic kurt-ethiopic rikrik-ethiopic shortRikrik-ethiopic yizet-ethiopic rikrik-ethiopic.alt shortRikrik-ethiopic.alt yizet-ethiopic.alt rikrik-ethiopic.ss01 shortRikrik-ethiopic.ss01 yizet-ethiopic.ss01 baht colonmod doubleapostrophemod minusmod shortequalmod at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl numero ampersand.ss01 ampersand.ss03 ampersand.ss04 ampersand.ss05 cedi cent currency dollar euro hryvnia kip naira ruble sterling yen hryvnia.ss01 plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand dottedCircle geminVowellengthcomb-ethiopic geminationcomb-ethiopic vowellengthcomb-ethiopic dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb verticallineabovecomb dotbelowcomb ringbelowcomb commaaccentcomb commaaccentcomb.loclMAH cedillacomb ogonekcomb dieresiscomb.case dotaccentcomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case ringcomb.case tildecomb.case macroncomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case ringbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case circumflexbelowcomb.case brevebelowcomb.case breveinvertedbelowcomb.case tildebelowcomb.case macronbelowcomb.case gravecomb.narrow acutecomb.narrow circumflexcomb.narrow brevecomb.narrow tildecomb.narrow hookabovecomb.narrow horncomb.narrow tildecomb.narrow2 tildecomb.narrow3 dotbelowcomb.case.001 dieresis dotaccent grave acute hungarumlaut circumflex secondtonechinese caron fourthtonechinese breve ring tilde macron cedilla ogonek NumberStep2 fullstop-ethiopic.alt fullstop-ethiopic.ss01 questionmark-ethiopic.alt questionmark-ethiopic.ss01";
+code = "A Aacute Abreve Acaron Acircumflex Adblgrave Adieresis Adotaccent Adotmacron Agrave Alpha-latin Amacron Aogonek Aring Atilde AE B Bdotaccent Beta-latin Bhook Bstroke C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent Chook D Dcaron Ddotaccent Ddotbelow Dmacronbelow E Eacute Ecaron Ecedilla Ecedillabreve Ecircumflex Ecircumflexbelow Edblgrave Edieresis Edotaccent Egrave Emacron Eopen Ereversed Esh Schwa F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstopsmall Gmacron Gstroke H Hbar Hbrevebelow Hcaron Hcircumflex Hdieresis Hdotaccent Hdotbelow Hhook Hturned I IJ Iacute Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Igrave Iinvertedbreve Imacron Iogonek Iota-latin Istroke Itilde J Jacute Jcircumflex Jcrossedtail Jstroke K Kacute Kcaron Kcommaaccent Kdotbelow Kmacronbelow L Lacute Lbar Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron M M_gravecomb M_macroncomb Macute Mdotaccent Mdotbelow N N_macroncomb Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Nmacronbelow Ntilde O Oacute Ocaron Ocircumflex Odblgrave Odieresis Odieresismacron Odotaccent Odotbelow Ograve Ohookabove Ohungarumlaut Oinvertedbreve Omacron Omega-latin Oogonek Oogonekmacron Oopen Oslash Oslashacute Otilde OE P Pacute Pdotaccent Phook Thorn Pstroke Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rmacronbelow Rstroke Rtail S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls T Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdotaccent Tdotbelow Thook Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Ucircumflexbelow Udblgrave Udieresis Udieresisbelow Udieresismacron Udotbelow Ugrave Uhookabove Uhungarumlaut Uinvertedbreve Umacron Uogonek Upsilon-latin Uring Utildebelow V Gamma-latin Vdotbelow Vhook Vtilde Vturned W Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook X Xdieresis Xdotaccent Y Yacute Ycircumflex Ydieresis Ydotaccent Ygrave Yhook Yhookabove Ymacron Ystroke Ytilde Z Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zstroke Saltillo a aacute abreve acaron acircumflex acircumflexdotbelow adblgrave adieresis adotaccent adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring aringbelow astroke atilde ae aemacron b bdotaccent bdotbelow beta-latin bhook bilabialclick bmacronbelow bstroke c cacute ccaron ccedilla ccedillaacute ccircumflex cdotaccent chi-latin chook creversed cstroke d dcaron dcedilla dcircumflexbelow dcroat ddotaccent ddotbelow dhook dmacronbelow dtail eth e eacute ecaron ecedilla ecedillabreve ecircumflex ecircumflexbelow edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron eogonek eopen esh estroke etilde etildebelow eturned schwa ezh ezhreversed f fdotaccent g gacute gamma-latin gbreve gcaron gcircumflex gcommaaccent gdotaccent ghook glottalstopreversed glottalstopsmall gmacron gstroke h hbar hbrevebelow hcaron hcedilla hcircumflex hdieresis hdotaccent hdotbelow heng hhook i idotless iacute icaron icircumflex idblgrave idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve imacron iogonek iota-latin istroke itilde itildebelow ij j jacute jcircumflex jcrossedtail jstroke k kacute kcaron kcommaaccent kdotbelow khook kmacronbelow kstroke l lacute lambdastroke lbar lbelt lcaron lcircumflexbelow lcommaaccent ldot ldotbelow ldotbelowmacron ldoublebar lmacronbelow lmiddletilde lslash m m_gravecomb m_macroncomb macute mdotaccent mdotbelow mturned n n_macroncomb nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave nhookleft nlongrightleg nmacronbelow ntilde eng o oacute obarred ocaron ocircumflex odblgrave odieresis odotaccent odotbelow ograve ohookabove ohungarumlaut oinvertedbreve omacron omega-latin oogonek oogonekmacron oopen oslashacute otilde p pacute pdotaccent phook thorn pstroke q qhooktail r racute rcaron rcommaaccent rdblgrave rdotaccent rdotbelow rdotbelowmacron rfishhook rinvertedbreve rmacronbelow rstroke rtail s sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent germandbls sobliquestroke t tcaron tcedilla tcircumflexbelow tcommaaccent tdotaccent tdotbelow tmacronbelow tretroflexhook u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udblgrave udieresis udieresisbelow ugrave uhookabove uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek upsilon-latin uring utilde utildeacute utildebelow v vdotbelow vhook vtilde w wacute wcircumflex wdieresis wdotaccent wdotbelow wgrave whook x xdieresis xdotaccent y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhook yhookabove ymacron ystroke ytilde z zacute zcaron zcircumflex zdotaccent zdotbelow zmacronbelow zstroke saltillo ae.ss04 aemacron.ss04 f_i f_l fi fl i_j.loclNLD ordfeminine ordmasculine clickalveolar clickdental clicklateral clickretroflex ha-ethiopic hu-ethiopic hi-ethiopic haa-ethiopic hee-ethiopic he-ethiopic ho-ethiopic hoa-ethiopic la-ethiopic lu-ethiopic li-ethiopic laa-ethiopic lee-ethiopic le-ethiopic lo-ethiopic lwa-ethiopic hha-ethiopic hhu-ethiopic hhi-ethiopic hhaa-ethiopic hhee-ethiopic hhe-ethiopic hho-ethiopic hhwa-ethiopic ma-ethiopic mu-ethiopic mi-ethiopic maa-ethiopic mee-ethiopic me-ethiopic mo-ethiopic mwa-ethiopic sza-ethiopic szu-ethiopic szi-ethiopic szaa-ethiopic szee-ethiopic sze-ethiopic szo-ethiopic szwa-ethiopic ra-ethiopic ru-ethiopic ri-ethiopic raa-ethiopic ree-ethiopic re-ethiopic ro-ethiopic rwa-ethiopic sa-ethiopic su-ethiopic si-ethiopic saa-ethiopic see-ethiopic se-ethiopic so-ethiopic swa-ethiopic sha-ethiopic shu-ethiopic shi-ethiopic shaa-ethiopic shee-ethiopic she-ethiopic sho-ethiopic shwa-ethiopic qa-ethiopic qu-ethiopic qi-ethiopic qaa-ethiopic qee-ethiopic qe-ethiopic qo-ethiopic qoa-ethiopic qwa-ethiopic qwi-ethiopic qwaa-ethiopic qwee-ethiopic qwe-ethiopic qha-ethiopic qhu-ethiopic qhi-ethiopic qhaa-ethiopic qhee-ethiopic qhe-ethiopic qho-ethiopic qhwa-ethiopic qhwi-ethiopic qhwaa-ethiopic qhwee-ethiopic qhwe-ethiopic ba-ethiopic bu-ethiopic bi-ethiopic baa-ethiopic bee-ethiopic be-ethiopic bo-ethiopic bwa-ethiopic va-ethiopic vu-ethiopic vi-ethiopic vaa-ethiopic vee-ethiopic ve-ethiopic vo-ethiopic vwa-ethiopic ta-ethiopic tu-ethiopic ti-ethiopic taa-ethiopic tee-ethiopic te-ethiopic to-ethiopic twa-ethiopic ca-ethiopic cu-ethiopic ci-ethiopic caa-ethiopic cee-ethiopic ce-ethiopic co-ethiopic cwa-ethiopic xa-ethiopic xu-ethiopic xi-ethiopic xaa-ethiopic xee-ethiopic xe-ethiopic xo-ethiopic xoa-ethiopic xwa-ethiopic xwi-ethiopic xwaa-ethiopic xwee-ethiopic xwe-ethiopic na-ethiopic nu-ethiopic ni-ethiopic naa-ethiopic nee-ethiopic ne-ethiopic no-ethiopic nwa-ethiopic nya-ethiopic nyu-ethiopic nyi-ethiopic nyaa-ethiopic nyee-ethiopic nye-ethiopic nyo-ethiopic nywa-ethiopic aGlottal-ethiopic uGlottal-ethiopic iGlottal-ethiopic aaGlottal-ethiopic eeGlottal-ethiopic eGlottal-ethiopic oGlottal-ethiopic waGlottal-ethiopic ka-ethiopic ku-ethiopic ki-ethiopic kaa-ethiopic kee-ethiopic ke-ethiopic ko-ethiopic koa-ethiopic kwa-ethiopic kwi-ethiopic kwaa-ethiopic kwee-ethiopic kwe-ethiopic kxa-ethiopic kxu-ethiopic kxi-ethiopic kxaa-ethiopic kxee-ethiopic kxe-ethiopic kxo-ethiopic kxwa-ethiopic kxwi-ethiopic kxwaa-ethiopic kxwee-ethiopic kxwe-ethiopic wa-ethiopic wu-ethiopic wi-ethiopic waa-ethiopic wee-ethiopic we-ethiopic wo-ethiopic woa-ethiopic aPharyngeal-ethiopic uPharyngeal-ethiopic iPharyngeal-ethiopic aaPharyngeal-ethiopic eePharyngeal-ethiopic ePharyngeal-ethiopic oPharyngeal-ethiopic za-ethiopic zu-ethiopic zi-ethiopic zaa-ethiopic zee-ethiopic ze-ethiopic zo-ethiopic zwa-ethiopic zha-ethiopic zhu-ethiopic zhi-ethiopic zhaa-ethiopic zhee-ethiopic zhe-ethiopic zho-ethiopic zhwa-ethiopic ya-ethiopic yu-ethiopic yi-ethiopic yaa-ethiopic yee-ethiopic ye-ethiopic yo-ethiopic yoa-ethiopic da-ethiopic du-ethiopic di-ethiopic daa-ethiopic dee-ethiopic de-ethiopic do-ethiopic dwa-ethiopic dda-ethiopic ddu-ethiopic ddi-ethiopic ddaa-ethiopic ddee-ethiopic dde-ethiopic ddo-ethiopic ddwa-ethiopic ja-ethiopic ju-ethiopic ji-ethiopic jaa-ethiopic jee-ethiopic je-ethiopic jo-ethiopic jwa-ethiopic ga-ethiopic gu-ethiopic gi-ethiopic gaa-ethiopic gee-ethiopic ge-ethiopic go-ethiopic goa-ethiopic gwa-ethiopic gwi-ethiopic gwaa-ethiopic gwee-ethiopic gwe-ethiopic gga-ethiopic ggu-ethiopic ggi-ethiopic ggaa-ethiopic ggee-ethiopic gge-ethiopic ggo-ethiopic ggwaa-ethiopic tha-ethiopic thu-ethiopic thi-ethiopic thaa-ethiopic thee-ethiopic the-ethiopic tho-ethiopic thwa-ethiopic cha-ethiopic chu-ethiopic chi-ethiopic chaa-ethiopic chee-ethiopic che-ethiopic cho-ethiopic chwa-ethiopic pha-ethiopic phu-ethiopic phi-ethiopic phaa-ethiopic phee-ethiopic phe-ethiopic pho-ethiopic phwa-ethiopic tsa-ethiopic tsu-ethiopic tsi-ethiopic tsaa-ethiopic tsee-ethiopic tse-ethiopic tso-ethiopic tswa-ethiopic tza-ethiopic tzu-ethiopic tzi-ethiopic tzaa-ethiopic tzee-ethiopic tze-ethiopic tzo-ethiopic tzoa-ethiopic fa-ethiopic fu-ethiopic fi-ethiopic faa-ethiopic fee-ethiopic fe-ethiopic fo-ethiopic fwa-ethiopic pa-ethiopic pu-ethiopic pi-ethiopic paa-ethiopic pee-ethiopic pe-ethiopic po-ethiopic pwa-ethiopic rya-ethiopic mya-ethiopic fya-ethiopic mwaSebatbeit-ethiopic mwi-ethiopic mwee-ethiopic mwe-ethiopic bwaSebatbeit-ethiopic bwi-ethiopic bwee-ethiopic bwe-ethiopic fwaSebatbeit-ethiopic fwi-ethiopic fwee-ethiopic fwe-ethiopic pwaSebatbeit-ethiopic pwi-ethiopic pwee-ethiopic pwe-ethiopic loa-ethiopic moa-ethiopic roa-ethiopic soa-ethiopic shoa-ethiopic boa-ethiopic toa-ethiopic coa-ethiopic noa-ethiopic nyoa-ethiopic oaGlottal-ethiopic zoa-ethiopic doa-ethiopic ddoa-ethiopic joa-ethiopic thoa-ethiopic choa-ethiopic phoa-ethiopic poa-ethiopic ggwa-ethiopic ggwi-ethiopic ggwee-ethiopic ggwe-ethiopic ssa-ethiopic ssu-ethiopic ssi-ethiopic ssaa-ethiopic ssee-ethiopic sse-ethiopic sso-ethiopic cca-ethiopic ccu-ethiopic cci-ethiopic ccaa-ethiopic ccee-ethiopic cce-ethiopic cco-ethiopic zza-ethiopic zzu-ethiopic zzi-ethiopic zzaa-ethiopic zzee-ethiopic zze-ethiopic zzo-ethiopic ccha-ethiopic cchu-ethiopic cchi-ethiopic cchaa-ethiopic cchee-ethiopic cche-ethiopic ccho-ethiopic qya-ethiopic qyu-ethiopic qyi-ethiopic qyaa-ethiopic qyee-ethiopic qye-ethiopic qyo-ethiopic kya-ethiopic kyu-ethiopic kyi-ethiopic kyaa-ethiopic kyee-ethiopic kye-ethiopic kyo-ethiopic xya-ethiopic xyu-ethiopic xyi-ethiopic xyaa-ethiopic xyee-ethiopic xye-ethiopic xyo-ethiopic gya-ethiopic gyu-ethiopic gyi-ethiopic gyaa-ethiopic gyee-ethiopic gye-ethiopic gyo-ethiopic tthu-ethiopic tthi-ethiopic tthaa-ethiopic tthee-ethiopic tthe-ethiopic ttho-ethiopic ddhu-ethiopic ddhi-ethiopic ddhaa-ethiopic ddhee-ethiopic ddhe-ethiopic ddho-ethiopic dzu-ethiopic dzi-ethiopic dzaa-ethiopic dzee-ethiopic dze-ethiopic dzo-ethiopic cchha-ethiopic cchhu-ethiopic cchhi-ethiopic cchhaa-ethiopic cchhee-ethiopic cchhe-ethiopic cchho-ethiopic bba-ethiopic bbu-ethiopic bbi-ethiopic bbaa-ethiopic bbee-ethiopic bbe-ethiopic bbo-ethiopic hhya-ethiopic hhyu-ethiopic hhyi-ethiopic hhyaa-ethiopic hhyee-ethiopic hhye-ethiopic hhyo-ethiopic hhwi-ethiopic hhwee-ethiopic hhwe-ethiopic hhwaGurage-ethiopic mwiGurage-ethiopic mweeGurage-ethiopic qwiGurage-ethiopic qweeGurage-ethiopic qweGurage-ethiopic bwiGurage-ethiopic bweeGurage-ethiopic kwiGurage-ethiopic kweeGurage-ethiopic kweGurage-ethiopic gwiGurage-ethiopic gweeGurage-ethiopic gweGurage-ethiopic fwiGurage-ethiopic fweeGurage-ethiopic pwiGurage-ethiopic pweeGurage-ethiopic one-ethiopic two-ethiopic three-ethiopic four-ethiopic five-ethiopic six-ethiopic seven-ethiopic eight-ethiopic nine-ethiopic ten-ethiopic twenty-ethiopic thirty-ethiopic forty-ethiopic fifty-ethiopic sixty-ethiopic seventy-ethiopic eighty-ethiopic ninety-ethiopic hundred-ethiopic tenthousand-ethiopic zero one two three four five six seven eight nine zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onethird twothirds onequarter threequarters oneeighth threeeighths fiveeighths seveneighths zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace colon-ethiopic comma-ethiopic paragraphseparator-ethiopic period-ethiopic prefacecolon-ethiopic question-ethiopic sectionmark-ethiopic semicolon-ethiopic wordspace-ethiopic colon-ethiopic.alt comma-ethiopic.alt paragraphseparator-ethiopic.alt prefacecolon-ethiopic.alt sectionmark-ethiopic.alt semicolon-ethiopic.alt wordspace-ethiopic.alt colon-ethiopic.ss01 comma-ethiopic.ss01 paragraphseparator-ethiopic.ss01 prefacecolon-ethiopic.ss01 sectionmark-ethiopic.ss01 semicolon-ethiopic.ss01 wordspace-ethiopic.ss01 period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT periodcentered.loclCAT.case hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle florin chiret-ethiopic deret-ethiopic deretHidet-ethiopic difat-ethiopic hidet-ethiopic kenat-ethiopic kurt-ethiopic rikrik-ethiopic shortRikrik-ethiopic yizet-ethiopic rikrik-ethiopic.alt shortRikrik-ethiopic.alt yizet-ethiopic.alt rikrik-ethiopic.ss01 shortRikrik-ethiopic.ss01 yizet-ethiopic.ss01 baht colonmod doubleapostrophemod minusmod shortequalmod at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl numero ampersand.ss01 ampersand.ss03 ampersand.ss04 ampersand.ss05 cedi cent currency dollar euro hryvnia kip naira ruble sterling yen hryvnia.ss01 plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand dottedCircle geminVowellengthcomb-ethiopic geminationcomb-ethiopic vowellengthcomb-ethiopic dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb verticallineabovecomb dotbelowcomb ringbelowcomb commaaccentcomb commaaccentcomb.loclMAH cedillacomb ogonekcomb dieresiscomb.case dotaccentcomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case ringcomb.case tildecomb.case macroncomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case ringbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case circumflexbelowcomb.case brevebelowcomb.case breveinvertedbelowcomb.case tildebelowcomb.case macronbelowcomb.case gravecomb.narrow acutecomb.narrow circumflexcomb.narrow brevecomb.narrow tildecomb.narrow hookabovecomb.narrow horncomb.narrow tildecomb.narrow2 tildecomb.narrow3 dotbelowcomb.case.001 dieresis dotaccent grave acute hungarumlaut circumflex secondtonechinese caron fourthtonechinese breve ring tilde macron cedilla ogonek NumberStep2 fullstop-ethiopic.alt fullstop-ethiopic.ss01 questionmark-ethiopic.alt questionmark-ethiopic.ss01";
 name = All;
+},
+{
+automatic = 1;
+code = "A Aacute Abreve Acaron Acircumflex Adblgrave Adieresis Adotaccent Adotmacron Agrave Alpha-latin Amacron Aogonek Aring Atilde AE B Bdotaccent Beta-latin Bhook Bstroke C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent Chook D Dcaron Ddotaccent Ddotbelow Dmacronbelow E Eacute Ecaron Ecedilla Ecedillabreve Ecircumflex Ecircumflexbelow Edblgrave Edieresis Edotaccent Egrave Emacron Eopen Ereversed Esh Schwa F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Glottalstopsmall Gmacron Gstroke H Hbar Hbrevebelow Hcaron Hcircumflex Hdieresis Hdotaccent Hdotbelow Hhook Hturned I IJ Iacute Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Igrave Iinvertedbreve Imacron Iogonek Iota-latin Istroke Itilde J Jacute Jcircumflex Jcrossedtail Jstroke K Kacute Kcaron Kcommaaccent Kdotbelow Kmacronbelow L Lacute Lbar Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron M M_gravecomb M_macroncomb Macute Mdotaccent Mdotbelow N N_macroncomb Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Ngrave Nmacronbelow Ntilde O Oacute Ocaron Ocircumflex Odblgrave Odieresis Odieresismacron Odotaccent Odotbelow Ograve Ohookabove Ohungarumlaut Oinvertedbreve Omacron Omega-latin Oogonek Oogonekmacron Oopen Oslash Oslashacute Otilde OE P Pacute Pdotaccent Phook Thorn Pstroke Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron Rinvertedbreve Rmacronbelow Rstroke Rtail S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls T Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdotaccent Tdotbelow Thook Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Ucircumflexbelow Udblgrave Udieresis Udieresisbelow Udieresismacron Udotbelow Ugrave Uhookabove Uhungarumlaut Uinvertedbreve Umacron Uogonek Upsilon-latin Uring Utildebelow V Gamma-latin Vdotbelow Vhook Vtilde Vturned W Wacute Wcircumflex Wdieresis Wdotaccent Wdotbelow Wgrave Whook X Xdieresis Xdotaccent Y Yacute Ycircumflex Ydieresis Ydotaccent Ygrave Yhook Yhookabove Ymacron Ystroke Ytilde Z Zacute Zcaron Zcircumflex Zdotaccent Zdotbelow Zstroke Saltillo";
+name = Uppercase;
 }
 );
 customParameters = (
@@ -61,6 +66,18 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn NLD;
+languagesystem latn CAT;
 ";
 name = Languagesystems;
 }
@@ -12240,13 +12257,119 @@ tag = mark;
 },
 {
 automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb dotbelowcomb ringbelowcomb commaaccentcomb cedillacomb ogonekcomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case dotbelowcomb.case ringbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_Other_3 {
+	lookupflag 0;
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_3;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
+	sub ldot by l periodcentered.loclCAT;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language MAH;
+lookup locl_latn_2 {
+	sub commaaccentcomb by commaaccentcomb.loclMAH;
+} locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub i j by i_j.loclNLD;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_4;
+
+script latn;
+language CAT;
+lookup locl_latn_5 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_5;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f i by f_i;
+sub f l by f_l;
+";
+tag = liga;
+},
+{
+automatic = 1;
 code = "sub ampersand by ampersand.ss03;
 ";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
 tag = ss03;
 },
 {
 automatic = 1;
-code = "sub ampersand by ampersand.ss04;
+code = "sub ae by ae.ss04;
+sub aemacron by aemacron.ss04;
+sub ampersand by ampersand.ss04;
 ";
 tag = ss04;
 },
@@ -12255,6 +12378,65 @@ automatic = 1;
 code = "sub ampersand by ampersand.ss05;
 ";
 tag = ss05;
+},
+{
+code = "lookup ccmp_DFLT_1 {
+	lookupflag 0;
+	sub acutecomb macroncomb by acutecomb_macroncomb;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+	sub gravecomb macroncomb by gravecomb_macroncomb;
+	sub macroncomb acutecomb by macroncomb_acutecomb;
+	sub macroncomb gravecomb by macroncomb_gravecomb;
+} ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb macronacutecomb acutemacroncomb macrongravecomb gravemacroncomb horncomb dieresisbelowcomb ringbelowcomb commaaccentcomb cedillacomb verticallinebelowcomb circumflexbelowcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb lowlinecomb macronbelowcomb tildeoverlaycomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+    sub iogonek' @CombiningTopAccents by iogonek.dotless;
+	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
+	sub itildebelow' @CombiningTopAccents by itildebelow.dotless;
+	sub istroke' @CombiningTopAccents by istroke.dotless;
+	sub j' @CombiningTopAccents by jdotless;
+	sub jcrossedtail' @CombiningTopAccents by jcrossedtail.dotless;
+
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb gravecomb_macroncomb acutecomb acutecomb_macroncomb hungarumlautcomb circumflexcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb circumflexcomb_hookabovecomb caroncomb brevecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb brevecomb_hookabovecomb ringcomb tildecomb macroncomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb dblgravecomb breveinvertedcomb horncomb dotbelowcomb dieresisbelowcomb ringbelowcomb commaaccentcomb cedillacomb ogonekcomb circumflexbelowcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb macronbelowcomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case ringcomb.case tildecomb.case macroncomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case ringbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case circumflexbelowcomb.case brevebelowcomb.case breveinvertedbelowcomb.case tildebelowcomb.case macronbelowcomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_Other_3 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_3;
+
+lookup ccmp_latn_1 {
+	sub itildebelow by i tildebelowcomb;
+} ccmp_latn_1;
+
+lookup ccmp_latn_2 {
+	sub fi by f i;
+	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
+} ccmp_latn_2;
+
+script latn;
+lookup ccmp_latn_1;
+lookup ccmp_latn_2;
+";
+tag = ccmp;
 }
 );
 fontMaster = (
@@ -12538,7 +12720,6 @@ a = -11;
 c = -7;
 d = -13;
 e = -11;
-f = -40;
 g = -18;
 h = -6;
 i = -14;
@@ -12548,7 +12729,6 @@ l = -6;
 m = -12;
 n = -15;
 o = -11;
-p = -2;
 q = -11;
 r = -18;
 s = 5;
@@ -14223,13 +14403,11 @@ Q = {
 Q = 8;
 b = 4;
 e = -3;
-f = 3;
 g = -3;
 j = 116;
 m = 10;
 n = 5;
 o = -2;
-p = 31;
 parenleft = -28;
 r = 4;
 s = -4;
@@ -14243,13 +14421,11 @@ a = {
 b = 2;
 d = -5;
 e = -5;
-f = -14;
 g = -6;
 i = -3;
 j = 3;
 m = 4;
 o = -5;
-p = 4;
 parenleft = -38;
 q = -2;
 s = -2;
@@ -14264,7 +14440,6 @@ Q = 10;
 a = 6;
 c = 11;
 e = 3;
-f = -7;
 h = -6;
 j = 3;
 k = -5;
@@ -14272,7 +14447,6 @@ l = -2;
 m = 8;
 n = 4;
 o = 3;
-p = 7;
 parenleft = -34;
 t = 5;
 u = 3;
@@ -14341,7 +14515,6 @@ d = -2;
 g = -6;
 m = 10;
 n = 5;
-p = 8;
 parenleft = -34;
 r = 4;
 t = 8;
@@ -14428,12 +14601,10 @@ d = {
 b = 12;
 d = -5;
 e = -4;
-f = -14;
 g = -8;
 j = 10;
 m = 4;
 o = -2;
-p = 4;
 parenleft = -37;
 q = -2;
 r = -2;
@@ -14475,12 +14646,10 @@ Q = 5;
 a = 2;
 b = 3;
 c = 8;
-f = -5;
 j = 2;
 l = -4;
 m = 7;
 n = 2;
-p = 8;
 parenleft = -30;
 t = 5;
 x = 7;
@@ -14495,36 +14664,6 @@ x = 7;
 };
 eight = {
 "@MMK_R_parenright" = -20;
-};
-f = {
-"@MMK_R_parenright" = -20;
-"@MMK_R_period" = -55;
-Q = 13;
-a = -29;
-b = 23;
-c = -30;
-d = -32;
-e = -37;
-f = -9;
-g = -30;
-h = 2;
-i = -6;
-j = 3;
-k = 5;
-m = -10;
-n = -14;
-o = -35;
-p = -6;
-parenleft = -29;
-q = -31;
-r = -15;
-s = -30;
-u = -17;
-v = -18;
-w = -18;
-x = -8;
-y = -15;
-z = -18;
 };
 "fa-ethiopic" = {
 "@MMK_R_parenright" = 20;
@@ -14677,7 +14816,6 @@ b = 6;
 c = -3;
 d = -9;
 e = -8;
-f = -19;
 g = -8;
 h = -5;
 i = -2;
@@ -14686,7 +14824,6 @@ k = -2;
 l = -4;
 m = 2;
 o = -6;
-p = 11;
 parenleft = -39;
 q = -6;
 s = -2;
@@ -14873,14 +15010,12 @@ parenright = -20;
 h = {
 "@MMK_R_period" = 15;
 e = -2;
-f = -16;
 g = -2;
 h = -4;
 j = 5;
 k = -3;
 l = -3;
 m = 4;
-p = 3;
 parenleft = -40;
 t = 2;
 u = -4;
@@ -14926,7 +15061,6 @@ a = -4;
 c = -2;
 d = -9;
 e = -7;
-f = -25;
 g = -12;
 h = -10;
 i = -14;
@@ -14960,14 +15094,12 @@ b = 8;
 c = -7;
 d = -10;
 e = -14;
-f = -12;
 g = -12;
 h = -2;
 i = -3;
 j = 29;
 l = -2;
 o = -13;
-p = 8;
 parenleft = -39;
 q = -8;
 s = -9;
@@ -15044,11 +15176,9 @@ k = {
 "@MMK_R_period" = 17;
 Q = 5;
 b = 10;
-f = -2;
 j = 12;
 m = 11;
 n = 6;
-p = 15;
 parenleft = -28;
 r = 5;
 s = 2;
@@ -15171,7 +15301,6 @@ a = -5;
 b = 8;
 d = -10;
 e = -9;
-f = -17;
 g = -10;
 i = -8;
 o = -9;
@@ -15252,12 +15381,10 @@ m = {
 "@MMK_R_period" = 17;
 a = 2;
 e = -2;
-f = -15;
 i = 2;
 j = 9;
 m = 7;
 n = 2;
-p = 7;
 parenleft = -38;
 t = 3;
 u = -2;
@@ -15316,14 +15443,12 @@ n = {
 "@MMK_R_period" = 15;
 a = 2;
 e = -3;
-f = -17;
 g = -2;
 h = -4;
 j = 3;
 k = -4;
 l = -3;
 m = 4;
-p = 4;
 parenleft = -39;
 t = 2;
 u = -3;
@@ -15450,7 +15575,6 @@ Q = 3;
 b = -3;
 c = 7;
 d = -3;
-f = -15;
 g = -3;
 h = -10;
 i = -4;
@@ -15482,30 +15606,6 @@ z = -10;
 };
 one = {
 "@MMK_R_parenright" = 50;
-};
-p = {
-"@MMK_R_parenright" = -35;
-"@MMK_R_period" = -13;
-Q = 9;
-a = 6;
-c = 11;
-e = 3;
-f = -7;
-h = -5;
-j = 3;
-k = -5;
-l = -2;
-m = 10;
-n = 5;
-o = 4;
-p = 9;
-parenleft = -34;
-q = 2;
-r = 2;
-t = 5;
-u = 3;
-y = 3;
-z = -4;
 };
 "pa-ethiopic" = {
 "chi-ethiopic" = -140;
@@ -15612,7 +15712,6 @@ d = -60;
 "dze-ethiopic" = 70;
 e = -50;
 "eGlottal-ethiopic" = 50;
-f = -30;
 four = -20;
 g = -60;
 "ge-ethiopic" = 10;
@@ -15663,7 +15762,6 @@ nine = -30;
 "nyo-ethiopic" = 0;
 "nywa-ethiopic" = 40;
 o = -50;
-p = -25;
 parenleft = -57;
 "phoa-ethiopic" = -10;
 "po-ethiopic" = 60;
@@ -15722,7 +15820,6 @@ b = -52;
 c = -50;
 d = -55;
 e = -55;
-f = -52;
 g = -54;
 h = -66;
 i = -56;
@@ -15732,7 +15829,6 @@ l = -62;
 m = -46;
 n = -49;
 o = -54;
-p = -50;
 parenleft = -97;
 q = -55;
 r = -50;
@@ -15787,7 +15883,6 @@ b = 4;
 c = -3;
 d = -5;
 e = -8;
-f = -6;
 g = -8;
 h = -2;
 j = 89;
@@ -15795,7 +15890,6 @@ l = -2;
 m = 7;
 n = 4;
 o = -7;
-p = 18;
 parenleft = -36;
 q = -3;
 s = -2;
@@ -15878,7 +15972,6 @@ b = -6;
 c = -16;
 d = -17;
 e = -22;
-f = 2;
 g = -12;
 h = -12;
 i = -9;
@@ -16054,11 +16147,9 @@ s = {
 "@MMK_R_parenright" = -20;
 "@MMK_R_period" = 2;
 c = 2;
-f = -13;
 g = -2;
 i = -3;
 m = 3;
-p = 3;
 parenleft = -35;
 x = 5;
 z = -3;
@@ -16136,11 +16227,9 @@ a = -5;
 c = -4;
 d = -10;
 e = -11;
-f = -8;
 g = -14;
 m = 4;
 o = -11;
-p = 13;
 parenleft = -35;
 q = -7;
 x = 22;
@@ -16257,11 +16346,9 @@ u = {
 a = 2;
 b = 4;
 c = 5;
-f = -11;
 i = -2;
 j = 7;
 m = 6;
-p = 6;
 parenleft = -36;
 t = 7;
 x = 16;
@@ -16284,7 +16371,6 @@ b = -2;
 c = 4;
 d = -2;
 e = -2;
-f = -2;
 g = -2;
 h = -10;
 k = -9;
@@ -16319,14 +16405,12 @@ Q = 15;
 a = 5;
 c = 9;
 e = 2;
-f = -2;
 h = -4;
 k = -3;
 l = -4;
 m = 7;
 n = 3;
 o = 2;
-p = 4;
 parenleft = -33;
 r = 2;
 t = 4;
@@ -16368,7 +16452,6 @@ a = -6;
 c = -7;
 d = -11;
 e = -13;
-f = -6;
 g = -9;
 h = -10;
 k = -8;
@@ -16376,7 +16459,6 @@ l = -10;
 m = 9;
 n = 4;
 o = -12;
-p = 9;
 parenleft = -37;
 q = -11;
 r = 2;
@@ -16411,7 +16493,6 @@ b = 4;
 c = -5;
 d = -11;
 e = -10;
-f = -20;
 g = -10;
 h = -7;
 i = -3;
@@ -16419,7 +16500,6 @@ j = 25;
 k = -5;
 l = -7;
 o = -9;
-p = 8;
 parenleft = -42;
 q = -8;
 s = -5;
@@ -16495,11 +16575,9 @@ Q = -2;
 a = -2;
 d = -8;
 e = -9;
-f = -13;
 g = -10;
 i = -6;
 o = -8;
-p = 9;
 parenleft = -38;
 q = -6;
 v = -2;

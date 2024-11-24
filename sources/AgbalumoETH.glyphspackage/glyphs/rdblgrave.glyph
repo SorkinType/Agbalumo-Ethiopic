@@ -1,0 +1,19 @@
+{
+glyphname = rdblgrave;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (-8,0);
+ref = dblgravecomb;
+}
+);
+width = 471;
+}
+);
+unicode = 529;
+}

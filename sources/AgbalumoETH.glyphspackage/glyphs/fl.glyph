@@ -1,0 +1,28 @@
+{
+color = 3;
+glyphname = fl;
+layers = (
+{
+anchors = (
+{
+name = caret_1;
+pos = (337,0);
+}
+);
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (398,0);
+ref = l;
+}
+);
+width = 704;
+}
+);
+metricLeft = f;
+metricRight = l;
+unicode = 64258;
+}

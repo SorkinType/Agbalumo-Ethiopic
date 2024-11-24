@@ -1,0 +1,19 @@
+{
+glyphname = sacute;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (160,0);
+ref = acutecomb;
+}
+);
+width = 495;
+}
+);
+unicode = 347;
+}
