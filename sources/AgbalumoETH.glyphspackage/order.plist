@@ -1405,6 +1405,7 @@ ringhalfright,
 NumberStep2,
 "fullstop-ethiopic.alt",
 "fullstop-ethiopic.ss01",
+lcvertStroke_part.,
 "questionmark-ethiopic.alt",
 "questionmark-ethiopic.ss01"
 )
