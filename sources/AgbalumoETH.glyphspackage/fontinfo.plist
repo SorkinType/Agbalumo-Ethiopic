@@ -23,10 +23,6 @@ value = (
 );
 },
 {
-name = "Use Typo Metrics";
-value = 1;
-},
-{
 name = "Use Extension Kerning";
 value = 1;
 },
@@ -47,18 +43,6 @@ name = blueShift;
 value = 5;
 },
 {
-name = "Use Typo Metrics";
-value = 1;
-},
-{
-name = "Use Extension Kerning";
-value = 1;
-},
-{
-name = "Use Line Breaks";
-value = 1;
-},
-{
 name = unicodeRanges;
 value = (
 0,
@@ -69,14 +53,6 @@ value = (
 45,
 75
 );
-},
-{
-name = "Use Extension Kerning";
-value = 1;
-},
-{
-name = "Use Line Breaks";
-value = 1;
 }
 );
 date = "2024-11-18 06:11:26 +0000";
