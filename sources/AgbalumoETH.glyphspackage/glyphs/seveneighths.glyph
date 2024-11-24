@@ -1,0 +1,26 @@
+{
+glyphname = seveneighths;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+ref = seven.numr;
+},
+{
+alignment = -1;
+pos = (327,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (619,0);
+ref = eight.dnom;
+}
+);
+width = 1019;
+}
+);
+unicode = 8542;
+}

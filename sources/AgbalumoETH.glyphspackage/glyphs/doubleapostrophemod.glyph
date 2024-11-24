@@ -1,0 +1,21 @@
+{
+glyphname = doubleapostrophemod;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+pos = (211,0);
+ref = quoteright;
+},
+{
+alignment = -1;
+ref = quoteright;
+}
+);
+width = 507;
+}
+);
+unicode = 750;
+}

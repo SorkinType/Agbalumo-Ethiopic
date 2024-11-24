@@ -1,0 +1,72 @@
+{
+color = 8;
+glyphname = ogonekcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+pos = (276,0);
+}
+);
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+closed = 1;
+nodes = (
+(261,-225,o),
+(275,-85,o),
+(205,-80,c),
+(203,-81,l),
+(225,-140,o),
+(124,-155,o),
+(124,-94,cs),
+(124,-52,o),
+(157,-24,o),
+(195,0,c),
+(102,0,l),
+(-45,-86,o),
+(-1,-225,o),
+(132,-225,cs)
+);
+}
+);
+width = 257;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (214,0);
+}
+);
+associatedMasterId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+layerId = "7A9E700A-699E-4A03-B69C-E93C4B10A0AA";
+name = "Sep 13, 23, 12:04";
+shapes = (
+{
+closed = 1;
+nodes = (
+(219,-225,o),
+(233,-82,o),
+(153,-67,c),
+(151,-68,l),
+(183,-137,o),
+(82,-155,o),
+(82,-74,cs),
+(82,-52,o),
+(95,-24,o),
+(133,0,c),
+(40,0,l),
+(-67,-86,o),
+(-23,-225,o),
+(90,-225,cs)
+);
+}
+);
+width = 246;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+}

@@ -1,0 +1,17 @@
+{
+glyphname = threesuperior;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+pos = (0,442);
+ref = three.dnom;
+}
+);
+width = 458;
+}
+);
+unicode = 179;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = eightsuperior;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+pos = (0,441);
+ref = eight.dnom;
+}
+);
+width = 461;
+}
+);
+unicode = 8312;
+}

@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = eight.tf;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+ref = eight.lf;
+}
+);
+width = 555;
+}
+);
+}

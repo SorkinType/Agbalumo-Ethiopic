@@ -1,0 +1,16 @@
+{
+glyphname = space;
+layers = (
+{
+associatedMasterId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+layerId = "2FD7ADA2-49E5-462F-A30C-8B9512AF8BC5";
+name = "Apr 30, 24, 17:58";
+width = 180;
+},
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+width = 220;
+}
+);
+unicode = 32;
+}

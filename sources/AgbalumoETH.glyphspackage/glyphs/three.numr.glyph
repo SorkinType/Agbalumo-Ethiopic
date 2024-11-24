@@ -1,0 +1,16 @@
+{
+glyphname = three.numr;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+alignment = -1;
+pos = (7,241);
+ref = three.dnom;
+}
+);
+width = 416;
+}
+);
+}

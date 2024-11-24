@@ -8,3 +8,7 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+
+Yikun Ayalew
+Raphael Alegbeleye <r.o.alegbeleye@gmail.com>
+
