@@ -8,7 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (203,10);
+pos = (236,10);
 ref = ogonekcomb.case;
 }
 );

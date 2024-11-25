@@ -1,0 +1,32 @@
+{
+color = 11;
+glyphname = ohorntilde;
+layers = (
+{
+annotations = (
+{
+pos = (135,945);
+text = "Adjust tilde on this";
+type = Text;
+width = 92;
+}
+);
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (103,0);
+ref = tildecomb.narrow3;
+},
+{
+pos = (362,-60);
+ref = horncomb;
+}
+);
+width = 567;
+}
+);
+unicode = 7905;
+}

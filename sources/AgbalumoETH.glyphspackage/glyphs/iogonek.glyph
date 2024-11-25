@@ -8,11 +8,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (103,0);
+pos = (70,0);
 ref = dotaccentcomb;
 },
 {
-pos = (42,10);
+pos = (73,10);
 ref = ogonekcomb;
 }
 );

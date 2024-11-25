@@ -1,0 +1,19 @@
+{
+glyphname = Bdotbelow;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = B;
+},
+{
+pos = (178,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 658;
+}
+);
+unicode = 7684;
+}

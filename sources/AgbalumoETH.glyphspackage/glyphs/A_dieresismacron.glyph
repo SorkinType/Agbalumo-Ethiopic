@@ -1,0 +1,23 @@
+{
+glyphname = Adieresismacron;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (185,0);
+ref = dieresiscomb.case;
+},
+{
+pos = (195,170);
+ref = macroncomb.case;
+}
+);
+width = 670;
+}
+);
+unicode = 478;
+}

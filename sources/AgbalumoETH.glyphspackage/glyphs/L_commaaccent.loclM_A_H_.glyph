@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Lcommaaccent.loclMAH;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (195,0);
+ref = commaaccentcomb.case;
+}
+);
+width = 624;
+}
+);
+}

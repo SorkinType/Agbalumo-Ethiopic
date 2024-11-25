@@ -1,0 +1,24 @@
+{
+color = 11;
+glyphname = Ocircumflexdotbelow;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (191,0);
+ref = dotbelowcomb.case;
+},
+{
+pos = (203,0);
+ref = circumflexcomb.case;
+}
+);
+width = 672;
+}
+);
+unicode = 7896;
+}

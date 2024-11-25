@@ -1,0 +1,18 @@
+{
+glyphname = agrave.ss05;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (89,0);
+ref = gravecomb;
+}
+);
+width = 510;
+}
+);
+}

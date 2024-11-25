@@ -1,0 +1,24 @@
+{
+glyphname = otildedieresis;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (92,0);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (118,190);
+ref = dieresiscomb;
+}
+);
+width = 567;
+}
+);
+unicode = 7759;
+}

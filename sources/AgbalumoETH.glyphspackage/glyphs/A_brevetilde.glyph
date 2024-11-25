@@ -1,0 +1,20 @@
+{
+color = 11;
+glyphname = Abrevetilde;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (217,0);
+ref = brevecomb_tildecomb.case;
+}
+);
+width = 670;
+}
+);
+unicode = 7860;
+}

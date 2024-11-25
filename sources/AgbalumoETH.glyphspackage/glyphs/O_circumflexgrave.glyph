@@ -1,0 +1,25 @@
+{
+color = 11;
+glyphname = Ocircumflexgrave;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (203,0);
+ref = circumflexcomb.case;
+},
+{
+anchor = top_viet;
+pos = (532,43);
+ref = gravecomb.case;
+}
+);
+width = 672;
+}
+);
+unicode = 7890;
+}

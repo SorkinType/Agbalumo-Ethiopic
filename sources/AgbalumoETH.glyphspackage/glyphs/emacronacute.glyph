@@ -1,0 +1,19 @@
+{
+glyphname = emacronacute;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (125,0);
+ref = macroncomb_acutecomb;
+}
+);
+width = 521;
+}
+);
+unicode = 7703;
+}

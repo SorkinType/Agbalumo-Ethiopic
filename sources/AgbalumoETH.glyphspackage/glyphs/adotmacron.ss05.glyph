@@ -1,0 +1,22 @@
+{
+glyphname = adotmacron.ss05;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (190,0);
+ref = dotaccentcomb;
+},
+{
+pos = (109,194);
+ref = macroncomb;
+}
+);
+width = 510;
+}
+);
+}

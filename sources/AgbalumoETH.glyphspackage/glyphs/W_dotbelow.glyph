@@ -8,7 +8,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (294,30);
+pos = (328,30);
 ref = dotbelowcomb.case;
 }
 );

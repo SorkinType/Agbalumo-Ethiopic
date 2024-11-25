@@ -1,0 +1,44 @@
+{
+glyphname = otildemacron;
+layers = (
+{
+layerId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (92,0);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (107,200);
+ref = macroncomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
+layerId = "BCD7AC6C-3914-42EC-A41C-F53BF0DD0509";
+name = "Aug 30, 23, 21:08";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (92,0);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (107,220);
+ref = macroncomb;
+}
+);
+width = 567;
+}
+);
+unicode = 557;
+}

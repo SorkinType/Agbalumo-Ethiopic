@@ -8,11 +8,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (122,0);
+pos = (179,0);
 ref = brevebelowcomb.case;
 }
 );
-width = 654;
+width = 685;
 }
 );
 unicode = 7722;
