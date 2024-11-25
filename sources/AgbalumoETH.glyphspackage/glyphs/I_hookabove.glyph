@@ -9,11 +9,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (50,0);
+pos = (61,0);
 ref = hookabovecomb.case;
 }
 );
-width = 268;
+width = 315;
 }
 );
 unicode = 7880;

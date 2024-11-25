@@ -11,11 +11,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (592,-54);
+pos = (567,-54);
 ref = horncomb.case;
 }
 );
-width = 696;
+width = 676;
 },
 {
 anchors = (
@@ -389,11 +389,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (592,-54);
+pos = (567,-54);
 ref = horncomb.case;
 }
 );
-width = 696;
+width = 676;
 }
 );
 unicode = 431;

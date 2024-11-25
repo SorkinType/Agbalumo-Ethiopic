@@ -29,7 +29,7 @@ ref = circumflexcomb;
 },
 {
 anchor = top_viet;
-pos = (452,153);
+pos = (480,153);
 ref = acutecomb;
 }
 );

@@ -8,11 +8,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (111,0);
+pos = (144,0);
 ref = dieresiscomb;
 },
 {
-pos = (123,210);
+pos = (164,210);
 ref = gravecomb;
 }
 );

@@ -8,11 +8,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (190,0);
+pos = (223,0);
 ref = dotaccentcomb;
 },
 {
-pos = (109,194);
+pos = (141,194);
 ref = macroncomb;
 }
 );

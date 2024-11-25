@@ -85,7 +85,7 @@ shapes = (
 ref = brevecomb.narrow;
 },
 {
-pos = (2,163);
+pos = (1,163);
 ref = tildecomb.narrow;
 }
 );

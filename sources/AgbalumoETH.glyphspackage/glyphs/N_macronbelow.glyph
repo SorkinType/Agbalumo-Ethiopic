@@ -8,11 +8,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (94,0);
+pos = (68,0);
 ref = macronbelowcomb.case;
 }
 );
-width = 691;
+width = 695;
 }
 );
 unicode = 7752;

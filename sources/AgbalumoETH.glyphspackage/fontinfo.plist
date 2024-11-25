@@ -58,6 +58,10 @@ value = (
 45,
 75
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2024-11-24 08:42:59 +0000";
@@ -12727,8 +12731,6 @@ kerningLTR = {
 "@MMK_L_one-ethi" = {
 "@MMK_R_parenright" = -70;
 };
-"@MMK_L_period" = {
-};
 "@MMK_L_uni1200" = {
 "@MMK_R_parenright" = -60;
 "@MMK_R_uni1208_2" = -20;
@@ -14387,6 +14389,12 @@ parenright = -40;
 "@MMK_L_uniAB25" = {
 "@MMK_R_parenright" = -70;
 };
+"aaPharyngeal-ethiopic" = {
+"@MMK_R_uni1208_2" = 20;
+"@MMK_R_uni1218_2" = 20;
+"@MMK_R_uni122D" = 10;
+"te-ethiopic" = 20;
+};
 "ba-ethiopic" = {
 "@MMK_R_uni12A0_2" = -20;
 };
@@ -14541,13 +14549,13 @@ parenright = -40;
 "dzu-ethiopic" = {
 "@MMK_R_parenright" = -90;
 };
-"eeGlottal-ethiopic" = {
-"@MMK_R_uni1270_2" = -120;
-"@MMK_R_uni12A0_2" = 0;
-};
 "eGlottal-ethiopic" = {
 "@MMK_R_uni1308_2" = -60;
 "ga-ethiopic" = -100;
+};
+"eeGlottal-ethiopic" = {
+"@MMK_R_uni1270_2" = -120;
+"@MMK_R_uni12A0_2" = 0;
 };
 eight = {
 "@MMK_R_parenright" = -20;
@@ -14910,6 +14918,9 @@ parenright = -20;
 "ge-ethiopic" = -230;
 "gee-ethiopic" = -140;
 "gi-ethiopic" = -110;
+};
+"iPharyngeal-ethiopic" = {
+"@MMK_R_uni1202" = -90;
 };
 "ja-ethiopic" = {
 "@MMK_R_parenright" = -20;
@@ -15505,15 +15516,6 @@ zero = -20;
 parenright = {
 "@MMK_R_parenright" = -122;
 parenleft = -97;
-};
-"aaPharyngeal-ethiopic" = {
-"@MMK_R_uni1208_2" = 20;
-"@MMK_R_uni1218_2" = 20;
-"@MMK_R_uni122D" = 10;
-"te-ethiopic" = 20;
-};
-"iPharyngeal-ethiopic" = {
-"@MMK_R_uni1202" = -90;
 };
 "phi-ethiopic" = {
 "ne-ethiopic" = -270;
@@ -16147,7 +16149,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2022 The Familyname Project Authors https://github.com/SorkinType/Agbalumo-Ethiopic/";
+value = "Copyright 2022 the Agbalumo Ethiopic Project Authors (https://github.com/SorkinType/Agbalumo-Ethiopic/)";
 }
 );
 },
@@ -16166,7 +16168,7 @@ value = columntype.xyz;
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 key = manufacturers;
@@ -16180,6 +16182,10 @@ value = ColumnType;
 {
 key = manufacturerURL;
 value = columntype.xyz;
+},
+{
+key = vendorID;
+value = STC;
 }
 );
 stems = (

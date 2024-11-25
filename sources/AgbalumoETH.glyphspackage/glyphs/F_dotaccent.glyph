@@ -8,11 +8,11 @@ shapes = (
 ref = F;
 },
 {
-pos = (285,0);
+pos = (257,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 576;
+width = 548;
 },
 {
 associatedMasterId = "935688F5-83D3-4ABE-8A3A-DDCBCDDAE821";
@@ -23,11 +23,11 @@ shapes = (
 ref = F;
 },
 {
-pos = (234,0);
+pos = (257,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 576;
+width = 548;
 }
 );
 unicode = 7710;

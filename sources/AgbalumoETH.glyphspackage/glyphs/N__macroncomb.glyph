@@ -8,11 +8,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (205,0);
+pos = (179,0);
 ref = macroncomb.case;
 }
 );
-width = 691;
+width = 695;
 }
 );
 }

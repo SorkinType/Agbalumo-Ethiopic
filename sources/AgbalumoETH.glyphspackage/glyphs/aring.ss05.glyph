@@ -8,7 +8,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (110,0);
+pos = (147,0);
 ref = ringcomb;
 }
 );

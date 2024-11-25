@@ -76,7 +76,7 @@ shapes = (
 ref = brevecomb.narrow;
 },
 {
-pos = (91,163);
+pos = (87,163);
 ref = acutecomb.narrow;
 }
 );
