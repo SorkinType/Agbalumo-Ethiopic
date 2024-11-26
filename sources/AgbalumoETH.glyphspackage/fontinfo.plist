@@ -62,6 +62,19 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "meta Table";
+value = (
+{
+data = "Am, Latn";
+tag = dlng;
+},
+{
+data = "Am, Latn";
+tag = slng;
+}
+);
 }
 );
 date = "2024-11-24 08:42:59 +0000";
